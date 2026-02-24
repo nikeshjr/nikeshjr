@@ -58,5 +58,5 @@ I focus on clean architecture, performance, and writing maintainable code.
 
 ## 📫 Contact
 
-- 💼 LinkedIn: (Add your LinkedIn link)
-- 📧 Email: (Add your email here)
+- 💼 LinkedIn: https://www.linkedin.com/in/nikesh-s-96a789333/?skipRedirect=true
+- 📧 Email: nikesh06042004@gmail.com
