@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <!--
 **nikeshjr/nikeshjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,26 +14,49 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi, I am Nikesh 👋
 
-💻 Backend Developer  
-🚀 Passionate about building scalable APIs and backend systems  
-⚡ Focused on clean architecture, performance, and problem-solving  
 
----
-
-## 🛠 Tech Stack
-- Node.js
-- Express.js
-- MongoDB
-- MySQL
-- Java
-- REST APIs
+<h1 align="center">Hi 👋, I am Nikesh</h1>
+<h3 align="center">Backend Developer | API Builder | Problem Solver</h3>
 
 ---
 
-## 📈 What I Do
-- Build secure and scalable backend applications  
-- Design RESTful APIs  
-- Solve Data Structures & Algorithms problems  
-- Continuously improve system design skills  
+## 👨‍💻 About Me
+
+I am a Backend Developer passionate about building scalable APIs and backend systems.  
+I focus on clean architecture, performance, and writing maintainable code.
+
+---
+
+## 🚀 Currently Working On
+
+- 🔹 Building RESTful APIs  
+- 🔹 Strengthening Data Structures & Algorithms  
+- 🔹 Learning advanced backend & system design concepts  
+- 🔹 Improving real-world project architecture  
+
+---
+
+## 🛠 Tools & Technologies
+
+### 🚀 Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🛠 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 📫 Contact
+
+- 💼 LinkedIn: (Add your LinkedIn link)
+- 📧 Email: (Add your email here)
