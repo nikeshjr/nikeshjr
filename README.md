@@ -14,3 +14,26 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I am Nikesh 👋
+
+💻 Backend Developer  
+🚀 Passionate about building scalable APIs and backend systems  
+⚡ Focused on clean architecture, performance, and problem-solving  
+
+---
+
+## 🛠 Tech Stack
+- Node.js
+- Express.js
+- MongoDB
+- MySQL
+- Java
+- REST APIs
+
+---
+
+## 📈 What I Do
+- Build secure and scalable backend applications  
+- Design RESTful APIs  
+- Solve Data Structures & Algorithms problems  
+- Continuously improve system design skills  
