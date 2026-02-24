@@ -71,7 +71,7 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 
 <p align="center">
 
-<a href="https://www.linkedin.com">
+<a href="https://www.linkedin.com/in/nikesh-s-96a789333/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -79,7 +79,7 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://instagram.com">
+<a href="https://www.instagram.com/nikesh__jr?igsh=OWZycjJ6MmQ1ZWt2">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 
