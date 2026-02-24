@@ -46,10 +46,6 @@ I focus on clean architecture, performance, and writing maintainable code.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikeshjr&show_icons=true&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=radical&hide_border=true"/>
 </p>
 
