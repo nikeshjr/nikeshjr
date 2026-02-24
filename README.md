@@ -28,6 +28,10 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 
 ## 🛠 Tech Stack
 
+### 🚀 Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+
 ### 🚀 Backend
 ![NodeJS](https://img.shields.io/badge/NodeJS-0D47A1?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)
