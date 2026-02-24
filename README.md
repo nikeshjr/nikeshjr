@@ -7,7 +7,6 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2196F3&center=true&width=650&lines=Backend+Developer;API+Architect;Problem+Solver"/>
 </p>
 
----
 
 <!-- ABOUT ME -->
 <p align="left">
@@ -23,23 +22,17 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 
 </div>
 
----
-
 <!-- CURRENT WORK -->
 <p align="left">
 <img width="450px"
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=0D47A1&width=450&lines=🚀+Currently+Working+On"/>
 </p>
 
-✅ REST API Development  
-✅ Data Structures & Algorithms  
-✅ Real World Backend Projects  
-✅ System Architecture Learning  
+🔹 REST API Development  
+🔹 Data Structures & Algorithms  
+🔹 Real World Backend Projects  
+🔹 System Architecture Learning  
 
----
-
-
----
 
 <!-- TECH STACK -->
 <p align="left">
@@ -61,7 +54,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=250
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
 
 <!-- PROJECTS -->
 <p align="left">
@@ -89,7 +81,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=250
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshjr&theme=react-dark"/>
 </p>
 
----
 
 <!-- CONNECT -->
 <p align="left">
@@ -111,7 +102,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=250
 </a>
 </p>
 
----
 
 <p align="center">
 ⚡ Code. Build. Scale. ⚡
