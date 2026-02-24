@@ -74,3 +74,27 @@ I focus on clean architecture, performance, and writing maintainable code.
 ---
 
 <p align="center">⚡ Code. Build. Scale. ⚡</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?
+type=venom
+&height=250
+&color=0:0d47a1,50:1565c0,100:42a5f5
+&section=header
+&text=Hi%20I%20am%20Nikesh
+&fontSize=50
+&fontColor=ffffff
+&animation=twinkling"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code
+&duration=3000
+&pause=800
+&color=2196F3
+&center=true
+&vCenter=true
+&width=600
+&lines=Backend+Developer;API+Builder;Problem+Solver;Scalable+System+Enthusiast"/>
+</p>
