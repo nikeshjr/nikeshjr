@@ -19,14 +19,14 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I am Nikesh</h1>
 <h3 align="center">Backend Developer | API Builder | Problem Solver</h3>
 
----
+
 
 ## 👨‍💻 About Me
 
 I am a Backend Developer passionate about building scalable APIs and backend systems.  
 I focus on clean architecture, performance, and writing maintainable code.
 
----
+
 
 ## 🚀 Currently Working On
 
@@ -35,7 +35,7 @@ I focus on clean architecture, performance, and writing maintainable code.
  🔹 Learning advanced backend & system design concepts  
  🔹 Improving real-world project architecture  
 
----
+
 
 ## 🛠 Tools & Technologies
 
@@ -54,7 +54,7 @@ I focus on clean architecture, performance, and writing maintainable code.
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
----
+
 
 ## 📫 Contact
 
