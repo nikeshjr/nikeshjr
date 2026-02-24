@@ -38,21 +38,6 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=250
 
 ---
 
-<!-- SKILL BARS -->
-<p align="left">
-<img width="450px"
-src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=0D47A1&width=450&lines=⚡+Skill+Levels"/>
-</p>
-
-### Backend Development  
-<img src="https://progress-bar.dev/90/?title=NodeJS"/>
-
-### Java Programming  
-<img src="https://progress-bar.dev/85/?title=Java"/>
-
-### Database  
-<img src="https://progress-bar.dev/80/?title=Database"/>
-
 
 ---
 
@@ -84,9 +69,9 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=250
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=0D47A1&width=450&lines=📁+Projects"/>
 </p>
 
-🔹 Real Time Monitoring System  
-🔹 AI Health Prediction Projects  
-🔹 Backend API Framework Learning  
+🔹 Anime Hub  
+🔹 Roamio  
+ 
 
 ---
 
