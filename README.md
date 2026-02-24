@@ -44,17 +44,15 @@ src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=250
 src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=2500&pause=800&color=0D47A1&width=450&lines=⚡+Skill+Levels"/>
 </p>
 
-Backend Development  
+### Backend Development  
 <img src="https://progress-bar.dev/90/?title=NodeJS"/>
 
-Java Programming  
+### Java Programming  
 <img src="https://progress-bar.dev/85/?title=Java"/>
 
-Database Design  
+### Database  
 <img src="https://progress-bar.dev/80/?title=Database"/>
 
-System Design  
-<img src="https://progress-bar.dev/75/?title=System+Design"/>
 
 ---
 
