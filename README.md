@@ -30,10 +30,10 @@ I focus on clean architecture, performance, and writing maintainable code.
 
 ## 🚀 Currently Working On
 
-- 🔹 Building RESTful APIs  
-- 🔹 Strengthening Data Structures & Algorithms  
-- 🔹 Learning advanced backend & system design concepts  
-- 🔹 Improving real-world project architecture  
+ 🔹 Building RESTful APIs  
+ 🔹 Strengthening Data Structures & Algorithms  
+ 🔹 Learning advanced backend & system design concepts  
+ 🔹 Improving real-world project architecture  
 
 ---
 
