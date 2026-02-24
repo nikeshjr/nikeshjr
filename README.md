@@ -1,3 +1,4 @@
+<!-- HEADER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d47a1,50:1565c0,100:42a5f5&section=header&text=Hi%20I%20am%20Nikesh&fontSize=50&fontColor=ffffff&animation=twinkling"/>
 </p>
@@ -8,14 +9,34 @@
 
 ---
 
-## 👨‍💻 About Me
+<!-- ABOUT ME -->
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code
+&size=26
+&duration=2500
+&pause=800
+&color=0D47A1
+&width=400
+&lines=👨‍💻+About+Me" />
+</p>
 
 I am a Backend Developer passionate about building scalable APIs and backend systems.  
-I focus on clean architecture, performance optimization, and writing maintainable code.
+I focus on clean architecture, performance optimization, and maintainable code.
 
 ---
 
-## 🚀 Currently Working On
+<!-- CURRENT WORK -->
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code
+&size=26
+&duration=2500
+&pause=800
+&color=0D47A1
+&width=400
+&lines=🚀+Currently+Working+On" />
+</p>
 
 - REST API Development  
 - Data Structures & Algorithms Practice  
@@ -24,7 +45,17 @@ I focus on clean architecture, performance optimization, and writing maintainabl
 
 ---
 
-## ⚡ Tech Stack
+<!-- TECH STACK -->
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code
+&size=26
+&duration=2500
+&pause=800
+&color=0D47A1
+&width=400
+&lines=⚡+Tech+Stack" />
+</p>
 
 ### 🚀 Backend
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -43,7 +74,17 @@ I focus on clean architecture, performance optimization, and writing maintainabl
 
 ---
 
-## 📊 GitHub Stats
+<!-- GITHUB STATS -->
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code
+&size=26
+&duration=2500
+&pause=800
+&color=0D47A1
+&width=400
+&lines=📊+GitHub+Stats" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=radical&hide_border=true"/>
@@ -55,7 +96,17 @@ I focus on clean architecture, performance optimization, and writing maintainabl
 
 ---
 
-## 🔗 Connect With Me
+<!-- CONNECT -->
+<p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?
+font=Fira+Code
+&size=26
+&duration=2500
+&pause=800
+&color=0D47A1
+&width=400
+&lines=🔗+Connect+With+Me" />
+</p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/nikesh-s-96a789333/">
