@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:000000&height=180&section=header&text=Hi%20I%20am%20Nikesh&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=250&color=0:0d47a1,50:1565c0,100:42a5f5&section=header&text=Hi%20I%20am%20Nikesh&fontSize=50&fontColor=ffffff&animation=twinkling"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=0D47A1&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Builder;Problem+Solver;Scalable+System+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&color=2196F3&center=true&vCenter=true&width=600&lines=Backend+Developer;API+Builder;Problem+Solver;Scalable+System+Enthusiast" />
 </p>
 
 ---
@@ -11,7 +11,7 @@
 ## 👨‍💻 About Me
 
 I am a Backend Developer passionate about building scalable APIs and backend systems.  
-I focus on clean architecture, performance, and writing maintainable code.
+I focus on clean architecture, performance optimization, and writing maintainable code.
 
 ---
 
@@ -66,7 +66,7 @@ I focus on clean architecture, performance, and writing maintainable code.
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
-<a href="https://www.instagram.com/nikesh__jr?igsh=OWZycjJ6MmQ1ZWt2">
+<a href="https://www.instagram.com/nikesh__jr">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
 </a>
 </p>
@@ -76,25 +76,5 @@ I focus on clean architecture, performance, and writing maintainable code.
 <p align="center">⚡ Code. Build. Scale. ⚡</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?
-type=venom
-&height=250
-&color=0:0d47a1,50:1565c0,100:42a5f5
-&section=header
-&text=Hi%20I%20am%20Nikesh
-&fontSize=50
-&fontColor=ffffff
-&animation=twinkling"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?
-font=Fira+Code
-&duration=3000
-&pause=800
-&color=2196F3
-&center=true
-&vCenter=true
-&width=600
-&lines=Backend+Developer;API+Builder;Problem+Solver;Scalable+System+Enthusiast"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=120&section=footer"/>
 </p>
