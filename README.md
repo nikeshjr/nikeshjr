@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,30:1565C0,60:1E88E5,100:42A5F5&height=280&section=header&text=Hi%20I%20am%20Nikesh&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,30:001D3D,60:003566,100:0D47A1&height=280&section=header&text=Hi%20I%20am%20Nikesh&fontSize=55&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1200&color=42A5F5&center=true&vCenter=true&width=700&lines=Backend+Developer;API+Architect;Problem+Solver"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1200&color=00A8FF&center=true&vCenter=true&width=700&lines=Backend+Developer;API+Architect;Problem+Solver"/>
 </p>
 
 ---
@@ -37,21 +37,15 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
   <img src="https://skillicons.dev/icons?i=react" height="65"/>
 </p>
 
----
-
 ### 🚀 Backend
 <p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express" height="65"/>
 </p>
 
----
-
 ### 🗄 Database
 <p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="65"/>
 </p>
-
----
 
 ### 🛠 Tools
 <p align="center">
@@ -63,11 +57,19 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=react&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshjr&theme=react-dark"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/nikeshjr/nikeshjr/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -78,11 +80,15 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
   <a href="https://www.linkedin.com/in/nikesh-s-96a789333/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+
   &nbsp;&nbsp;
+
   <a href="mailto:nikesh06042004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+
   &nbsp;&nbsp;
+
   <a href="https://www.instagram.com/nikesh__jr?igsh=OWZycjJ6MmQ1ZWt2">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
@@ -95,5 +101,5 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:42A5F5&height=140&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000814,100:00A8FF&height=120&section=footer"/>
 </p>
