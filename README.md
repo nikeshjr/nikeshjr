@@ -1,11 +1,10 @@
-<!-- SMOOTH ANIMATED HEADER -->
+<!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:42a5f5&height=280&section=header&text=Nikesh%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:42a5f5&height=260&section=header&text=Hi%20I%20am%20Nikesh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
 </p>
 
-<!-- SMOOTH TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=750&lines=Backend+Developer;API+Architect;System+Design+Enthusiast;Problem+Solver"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1200&color=2196F3&center=true&vCenter=true&width=650&lines=Backend+Developer;API+Architect;Problem+Solver"/>
 </p>
 
 ---
@@ -13,33 +12,45 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-Passionate Backend Developer building scalable APIs and high performance systems.<br>
-Focused on clean architecture and optimized problem solving.
+I am a Backend Developer passionate about building scalable APIs, high performance systems and clean architecture.<br>
+I enjoy solving complex problems using optimized algorithms and modern backend technologies.
 </p>
 
 ---
 
-## 🚀 Tech Stack
+## 🚀 Currently Working On
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode&perline=4" />
+
+• REST API Development  
+• REACT js  
+• Real World Backend Projects  
+
 </p>
 
 ---
 
-## 📊 GitHub Stats (Smooth Fade Theme)
+## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikeshjr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode&perline=4" height="60"/>
 </p>
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=tokyonight&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshjr&theme=react-dark"/>
+</p>
+
 ---
 
-## 🐍 Contribution Snake (Smooth Moving Animation)
+## 🐍 Contribution Snake
 
 <p align="center">
   <img src="https://github.com/nikeshjr/nikeshjr/blob/output/github-contribution-grid-snake.svg"/>
@@ -64,6 +75,10 @@ Focused on clean architecture and optimized problem solving.
 </p>
 
 ---
+
+<p align="center">
+⚡ Code. Build. Scale. ⚡
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=120&section=footer"/>
