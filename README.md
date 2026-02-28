@@ -1,10 +1,11 @@
-<!-- HEADER -->
+<!-- SMOOTH ANIMATED HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:42a5f5&height=260&section=header&text=Hi%20I%20am%20Nikesh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:42a5f5&height=280&section=header&text=Nikesh%20S&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
 
+<!-- SMOOTH TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2196F3&center=true&width=650&lines=Backend+Developer;API+Architect;Problem+Solver"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=1000&color=42A5F5&center=true&vCenter=true&width=750&lines=Backend+Developer;API+Architect;System+Design+Enthusiast;Problem+Solver"/>
 </p>
 
 ---
@@ -12,62 +13,36 @@
 ## 👨‍💻 About Me
 
 <p align="center">
-I am a Backend Developer passionate about building scalable APIs, high performance systems and clean architecture.<br>
-I enjoy solving complex problems using optimized algorithms and modern backend technologies.
+Passionate Backend Developer building scalable APIs and high performance systems.<br>
+Focused on clean architecture and optimized problem solving.
 </p>
 
 ---
 
-## 🚀 Currently Working On
+## 🚀 Tech Stack
 
 <p align="center">
-
-• REST API Development  
-• REACT js  
-• Real World Backend Projects  
-
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode&perline=4" />
 </p>
 
 ---
 
-## 🛠 Tech Stack
+## 📊 GitHub Stats (Smooth Fade Theme)
 
-### 🚀 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nikeshjr&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 🚀 Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/>
-</p>
-
----
-
-### 🗄 Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="60"/>
-</p>
-
----
-
-### 🛠 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="60"/>
-</p>
-
----
-
-## 📊 GitHub Stats
+## 🐍 Contribution Snake (Smooth Moving Animation)
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=radical&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshjr&theme=react-dark"/>
+  <img src="https://github.com/nikeshjr/nikeshjr/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
@@ -89,10 +64,6 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 </p>
 
 ---
-
-<p align="center">
-⚡ Code. Build. Scale. ⚡
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=120&section=footer"/>
