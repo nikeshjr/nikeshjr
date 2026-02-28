@@ -1,10 +1,10 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,50:1565c0,100:42a5f5&height=260&section=header&text=Hi%20I%20am%20Nikesh&fontSize=50&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,30:1565C0,60:1E88E5,100:42A5F5&height=280&section=header&text=Hi%20I%20am%20Nikesh&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2196F3&center=true&width=650&lines=Backend+Developer;API+Architect;Problem+Solver"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1200&color=42A5F5&center=true&vCenter=true&width=700&lines=Backend+Developer;API+Architect;Problem+Solver"/>
 </p>
 
 ---
@@ -34,28 +34,28 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 
 ### 🚀 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react" height="65"/>
 </p>
 
 ---
 
 ### 🚀 Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="65"/>
 </p>
 
 ---
 
 ### 🗄 Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="60"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="65"/>
 </p>
 
 ---
 
 ### 🛠 Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="60"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="65"/>
 </p>
 
 ---
@@ -63,7 +63,7 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=radical&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -95,5 +95,5 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d47a1,100:1976d2&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B3D91,100:42A5F5&height=140&section=footer"/>
 </p>
