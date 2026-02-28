@@ -33,7 +33,15 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 ## 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode&perline=8" height="80"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql&perline=5" height="80"/>
+</p>
+
+---
+
+## 🛠 Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" height="80"/>
 </p>
 
 ---
