@@ -32,30 +32,8 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 
 ## 🛠 Tech Stack
 
-### 🚀 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react" height="65"/>
-</p>
-
----
-
-### 🚀 Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" height="65"/>
-</p>
-
----
-
-### 🗄 Database
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="65"/>
-</p>
-
----
-
-### 🛠 Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="65"/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode&perline=8" height="80"/>
 </p>
 
 ---
@@ -78,11 +56,15 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
   <a href="https://www.linkedin.com/in/nikesh-s-96a789333/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
+
   &nbsp;&nbsp;
+
   <a href="mailto:nikesh06042004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
   </a>
+
   &nbsp;&nbsp;
+
   <a href="https://www.instagram.com/nikesh__jr?igsh=OWZycjJ6MmQ1ZWt2">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
   </a>
