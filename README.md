@@ -62,7 +62,7 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nikesh-s-96a789333/">
+  <a href="https://www.linkedin.com/in/nikesh--s/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
   </a>
 
