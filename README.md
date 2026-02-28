@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1200&color=2196F3&center=true&vCenter=true&width=650&lines=Backend+Developer;API+Architect;Problem+Solver"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=800&color=2196F3&center=true&width=650&lines=Backend+Developer;API+Architect;Problem+Solver"/>
 </p>
 
 ---
@@ -32,8 +32,30 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 
 ## 🛠 Tech Stack
 
+### 🚀 Frontend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,git,github,vscode&perline=4" height="60"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
+</p>
+
+---
+
+### 🚀 Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/>
+</p>
+
+---
+
+### 🗄 Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="60"/>
+</p>
+
+---
+
+### 🛠 Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="60"/>
 </p>
 
 ---
@@ -41,19 +63,11 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikeshjr&theme=radical&hide_border=true"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nikeshjr&theme=react-dark"/>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/nikeshjr/nikeshjr/blob/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
