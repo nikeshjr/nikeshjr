@@ -20,9 +20,9 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 ## 🚀 Currently Working On
 
 - REST API Development  
-- Data Structures & Algorithms  
+- REACT js  
 - Real World Backend Projects  
-- System Architecture Learning  
+
 
 ---
 
@@ -50,13 +50,6 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 ![Git](https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📁 Projects
-
-- Anime Hub  
-- Roamio  
 
 ---
 
