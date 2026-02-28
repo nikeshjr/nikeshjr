@@ -34,32 +34,28 @@ I enjoy solving complex problems using optimized algorithms and modern backend t
 
 ### 🚀 Frontend
 <p align="center">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://skillicons.dev/icons?i=react" height="60"/>
 </p>
 
 ---
 
 ### 🚀 Backend
 <p align="center">
-  <img src="https://img.shields.io/badge/NodeJS-0D47A1?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" height="60"/>
 </p>
 
 ---
 
 ### 🗄 Database
 <p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-2E7D32?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-1565C0?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql" height="60"/>
 </p>
 
 ---
 
 ### 🛠 Tools
 <p align="center">
-  <img src="https://img.shields.io/badge/Git-FF6C37?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="60"/>
 </p>
 
 ---
