@@ -1,9 +1,9 @@
-<!-- HEADER -->
+<!-- ANIMATED HEADER SVG — commit header.svg to your profile repo -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020c18,30:0a1628,60:0d2137,100:0f3460&height=260&section=header&text=NIKESH&fontSize=95&fontColor=4fc3f7&animation=fadeIn&fontAlignY=50&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Problem%20Solver&descSize=17&descFontColor=90caf9&descAlignY=68"/>
+  <img src="./header.svg" width="100%" alt="Nikesh Header"/>
 </p>
 
-<!-- TYPING -->
+<!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Building+scalable+backends...;Designing+clean+REST+APIs...;Engineering+server-side+logic...;Turning+ideas+into+architecture..."/>
 </p>
@@ -85,5 +85,5 @@ motto      : "Architect first. Code second. Ship always."
 
 <!-- FOOTER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f3460,30:0d2137,60:0a1628,100:020c18&height=140&section=footer&reversal=true"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f3460,30:0d2137,60:0a1628,100:020c18&height=120&section=footer&reversal=true"/>
 </p>
