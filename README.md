@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020c18,30:0a1628,60:0d2137,100:0f3460&height=260&section=header&text=Nikesh S&fontSize=95&fontColor=4fc3f7&animation=fadeIn&fontAlignY=50&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Problem%20Solver&descSize=17&descFontColor=90caf9&descAlignY=68"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020c18,30:0a1628,60:0d2137,100:0f3460&height=260&section=header&text=Nikesh&fontSize=95&fontColor=4fc3f7&animation=fadeIn&fontAlignY=50&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Problem%20Solver&descSize=17&descFontColor=90caf9&descAlignY=68"/>
 </p>
 
 <!-- TYPING -->
