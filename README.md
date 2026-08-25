@@ -75,9 +75,9 @@ motto      : "Architect first. Code second. Ship always."
 
 <br/>
 
-<p align="center">
+<!-- <p align="center">
   <em>"The best systems aren't built by those who write the most code —<br/>but by those who understand the problem deepest."</em>
-</p>
+</p> -->
 
 <p align="center">— Nikesh &nbsp;·&nbsp; Backend Developer</p>
 
