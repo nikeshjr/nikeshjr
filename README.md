@@ -1,85 +1,89 @@
-<div align="center">
+<!-- HEADER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:020c18,30:0a1628,60:0d2137,100:0f3460&height=260&section=header&text=Nikesh&fontSize=95&fontColor=4fc3f7&animation=fadeIn&fontAlignY=50&desc=Backend%20Developer%20%7C%20API%20Architect%20%7C%20Problem%20Solver&descSize=17&descFontColor=90caf9&descAlignY=68"/>
+</p>
 
-# Nikesh
+<!-- TYPING -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=20&duration=3000&pause=1000&color=4FC3F7&center=true&vCenter=true&width=700&lines=Building+scalable+backends...;Designing+clean+REST+APIs...;Engineering+server-side+logic...;Turning+ideas+into+architecture..."/>
+</p>
 
-### Backend Developer · API Architect · Problem Solver
-
-![Profile Views](https://komarev.com/ghpvc/?username=nikesh&color=2563eb&style=flat-square&label=Profile+Views)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2563EB?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikesh--s/)
-[![Gmail](https://img.shields.io/badge/Email-2563EB?style=flat-square&logo=gmail&logoColor=white)](mailto:nikesh06042004@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-2563EB?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/nikesh__jr)
-
-</div>
-
-<br/>
-
-## About
-
-I design and build reliable backend systems — clean REST APIs, well-structured databases, and servers tuned for performance. My focus is on getting the architecture right before writing a single line of code.
-
-| | |
-|---|---|
-| **Role** | Backend Developer |
-| **Core Focus** | REST API Design · Database Architecture · Server Optimization |
-| **Currently Building** | Real-world backend projects · React.js interfaces |
-| **Interests** | Microservices · Authentication & Security · API Performance |
-| **Philosophy** | Architect first. Code second. Ship always. |
+<!-- QUICK BADGES -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-020c18?style=for-the-badge&logo=node.js&logoColor=4fc3f7&labelColor=0d2137"/>
+  <img src="https://img.shields.io/badge/Express-020c18?style=for-the-badge&logo=express&logoColor=4fc3f7&labelColor=0d2137"/>
+  <img src="https://img.shields.io/badge/MongoDB-020c18?style=for-the-badge&logo=mongodb&logoColor=4fc3f7&labelColor=0d2137"/>
+  <img src="https://img.shields.io/badge/MySQL-020c18?style=for-the-badge&logo=mysql&logoColor=4fc3f7&labelColor=0d2137"/>
+  <img src="https://img.shields.io/badge/React-020c18?style=for-the-badge&logo=react&logoColor=4fc3f7&labelColor=0d2137"/>
+</p>
 
 <br/>
 
-## Tech Stack
+---
 
-<table width="100%">
-<tr>
-<td valign="top" width="50%">
+## ✦ About Me
 
-**Backend**
+```yaml
+name       : Nikesh
+role       : Backend Developer
+focus      : [ REST API Design, Database Architecture, Server Optimization ]
+building   : [ Real-World Backend Projects, React.js ]
+interests  : [ Microservices, Auth & Security, API Performance ]
+motto      : "Architect first. Code second. Ship always."
+```
 
-![Node.js](https://img.shields.io/badge/Node.js-2563EB?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-2563EB?style=flat-square&logo=express&logoColor=white)
+---
 
-**Databases**
+## ✦ Tech Stack
 
-![MongoDB](https://img.shields.io/badge/MongoDB-2563EB?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-2563EB?style=flat-square&logo=mysql&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,react,javascript,git,github,vscode&perline=9&theme=dark" height="65"/>
+</p>
 
-</td>
-<td valign="top" width="50%">
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-020c18?style=flat-square&logo=node.js&logoColor=4fc3f7&labelColor=0d2137&color=0a1628"/>
+  <img src="https://img.shields.io/badge/Express-020c18?style=flat-square&logo=express&logoColor=4fc3f7&labelColor=0d2137&color=0a1628"/>
+  <img src="https://img.shields.io/badge/MongoDB-020c18?style=flat-square&logo=mongodb&logoColor=4fc3f7&labelColor=0d2137&color=0a1628"/>
+  <img src="https://img.shields.io/badge/MySQL-020c18?style=flat-square&logo=mysql&logoColor=4fc3f7&labelColor=0d2137&color=0a1628"/>
+  <img src="https://img.shields.io/badge/React-020c18?style=flat-square&logo=react&logoColor=4fc3f7&labelColor=0d2137&color=0a1628"/>
+  <img src="https://img.shields.io/badge/JavaScript-020c18?style=flat-square&logo=javascript&logoColor=4fc3f7&labelColor=0d2137&color=0a1628"/>
+  <img src="https://img.shields.io/badge/Git-020c18?style=flat-square&logo=git&logoColor=4fc3f7&labelColor=0d2137&color=0a1628"/>
+  <img src="https://img.shields.io/badge/VS%20Code-020c18?style=flat-square&logo=visual-studio-code&logoColor=4fc3f7&labelColor=0d2137&color=0a1628"/>
+</p>
 
-**Frontend**
+---
 
-![React](https://img.shields.io/badge/React-2563EB?style=flat-square&logo=react&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-2563EB?style=flat-square&logo=javascript&logoColor=white)
+## ✦ Connect With Me
 
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-2563EB?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-2563EB?style=flat-square&logo=visual-studio-code&logoColor=white)
-
-</td>
-</tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nikesh--s/">
+    <img src="https://img.shields.io/badge/LinkedIn-020c18?style=for-the-badge&logo=linkedin&logoColor=4fc3f7&labelColor=0d2137"/>
+  </a>
+  &nbsp;
+  <a href="mailto:nikesh06042004@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-020c18?style=for-the-badge&logo=gmail&logoColor=4fc3f7&labelColor=0d2137"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/nikesh__jr">
+    <img src="https://img.shields.io/badge/Instagram-020c18?style=for-the-badge&logo=instagram&logoColor=4fc3f7&labelColor=0d2137"/>
+  </a>
+</p>
 
 <br/>
 
-## GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nikesh&show_icons=true&hide_border=true&title_color=2563eb&icon_color=2563eb&text_color=1e3a5f&bg_color=ffffff" width="49%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nikesh&hide_border=true&background=ffffff&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=1e3a5f&currStreakNum=1e3a5f&sideNums=1e3a5f&dates=1e3a5f" width="49%"/>
-
-</div>
+---
 
 <br/>
 
-## Let's Connect
+<!-- <p align="center">
+  <em>"The best systems aren't built by those who write the most code —<br/>but by those who understand the problem deepest."</em>
+</p> -->
 
-<div align="center">
+<p align="center">— Nikesh &nbsp;·&nbsp; Backend Developer</p>
 
-Open to backend engineering roles and collaborative projects.
-Reach out via the links above — always happy to talk architecture, APIs, or a good database schema.
+<br/>
 
-<sub>Nikesh · Backend Developer</sub>
-
-</div>
+<!-- FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f3460,30:0d2137,60:0a1628,100:020c18&height=140&section=footer&reversal=true"/>
+</p>
